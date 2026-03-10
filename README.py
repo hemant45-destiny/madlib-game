@@ -1,5 +1,4 @@
 # madlib-game
-This is a simple code where we have to fill correct word in correct places.
 
 
 noun1 = input("Enter a noun:")
