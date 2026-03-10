@@ -1,2 +1,34 @@
 # madlib-game
-A word game where we have to fill in the blanks.
+
+
+
+noun1 = input("Enter a noun:")
+noun2 = input("Enter a noun:")
+noun3 = input("Enter a noun:")
+noun4 = input("Enter a noun:")
+adjective1 = input("Enter an adjective:")
+adjective2 = input("Enter an adjective:")
+verb1 = input("Enter a verb:")
+verb2 = input("Enter a verb:")
+verb3 = input("Enter a verb:")
+noun4 = input("Enter a noun:")
+verb4 = input("Enter a verb:")
+adjective3 = input("Enter an adjective:")
+adjective4 = input("Enter an adjective:")
+verb5 = input("Enter a verb:")
+verb6 = input("Enter a verb:")
+verb7 = input("Enter a verb:")
+verb8 = input("Enter a verb:")
+verb9 = input("Enter a verb:")
+
+print(f"A {adjective1} {noun1} once mocked a {adjective2} {noun2}.")
+print(f"The {noun2}, tired of the boasting, challenged the {noun1} to a race.")
+print(f"The {noun1}, confident of winning, {verb1} and agreed to the race.")
+print(f"The {noun3} was chosen as the judge to mark the route and start the race.")
+print(f"As the race began, the {noun1} dashed far ahead, leaving the {noun2} far behind.")
+print(f"The {noun1}, {verb2} how slow the {noun2} was, decided to take a {verb3} under a {noun4}.")
+print(f"The {noun2} kept {verb4}, {adjective3} and {adjective4}, never {verb5} for a break.")
+print(f"While the {noun1} {verb6}, the {noun2} passed him quietly.")
+print (f"When the {noun1} {verb7}, he {verb8} as fast as he could to finish the line. ")
+print(f"He found the {noun2} already there, {verb9} at the finish line.")
+print(f"The {adjective3} and {adjective4} {noun2} had won the race.")
